@@ -1,0 +1,11 @@
+ROOM_SELECT = "#room"
+DATE_INPUT = "#date"
+START_TIME_INPUT = "#start-time"
+END_TIME_INPUT = "#end-time"
+PARTICIPANTS_INPUT = "#participants"
+NAME_INPUT = "#name"
+EMAIL_INPUT = "#email"
+SUBMIT_BUTTON = ".submit-button"
+FORM_STATUS = "#form-status"
+DATE_INPUT_ERROR = '[data-error-for="date"]'
+ENDTIME_INPUT_ERROR = '[data-error-for="endTime"]'
